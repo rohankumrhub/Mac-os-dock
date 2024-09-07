@@ -9,7 +9,7 @@ In this photo i have recreating the MacOS dock animation you see when hovering a
 
 ## Tools used
 
-React, TypeScript, Vanilla CSS (using the `has()` selector!), CSS Variables.
+React, TypeScript, Vanilla CSS (using the `has()` selector! only) and CSS Variables.
 
 ## Image copyright
 
